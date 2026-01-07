@@ -59,7 +59,7 @@ These KPIs help evaluate how efficiently inventory is being managed and how quic
 ---
 
 ## Dashboard Preview
-![Inventory Dashboard](inventory_dashboard.png)
+![Inventory Dashboard](dashboard_inventory.png)
 
 ---
 
